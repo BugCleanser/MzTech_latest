@@ -1,0 +1,121 @@
+Summary for /sdcard/mztech_latest/MzTech.jar
+Decompiled with CFR 0.152
+
+
+org.mozilla.javascript.commonjs.module.provider.CachingModuleScriptProviderBase
+----------------------------
+
+getModuleScript(org.mozilla.javascript.Context java.lang.String java.net.URI java.net.URI org.mozilla.javascript.Scriptable )
+  Loose catch block
+
+
+org.mozilla.javascript.regexp.NativeRegExp
+----------------------------
+
+executeREBytecode(org.mozilla.javascript.regexp.REGlobalData java.lang.String int )
+  Unable to fully structure code
+
+
+org.mozilla.javascript.tools.debugger.Dim
+----------------------------
+
+interrupted(org.mozilla.javascript.Context org.mozilla.javascript.tools.debugger.Dim$StackFrame java.lang.Throwable )
+  Unable to fully structure code
+
+
+org.mozilla.javascript.tools.debugger.VariableModel
+----------------------------
+
+getValueAt(java.lang.Object int )
+  Unable to fully structure code
+
+
+org.mozilla.javascript.tools.shell.Global
+----------------------------
+
+pipe(boolean java.io.InputStream java.io.OutputStream )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 11[UNCONDITIONALDOLOOP]
+
+
+org.mozilla.javascript.xmlimpl.XmlProcessor
+----------------------------
+
+toXml(java.lang.String java.lang.String )
+  Loose catch block
+
+
+org.objectweb.asm.Type
+----------------------------
+
+getReturnType(java.lang.String )
+  Unable to fully structure code
+
+
+javassist.ClassPoolTail
+----------------------------
+
+appendClassPath(javassist.ClassPath )
+  Unable to fully structure code
+removeClassPath(javassist.ClassPath )
+  Unable to fully structure code
+
+
+javassist.CtClassType
+----------------------------
+
+addField(javassist.CtField javassist.CtField$Initializer )
+  Unable to fully structure code
+
+
+javassist.bytecode.Descriptor
+----------------------------
+
+numOfParameters(java.lang.String )
+  Unable to fully structure code
+
+
+javassist.bytecode.CodeIterator
+----------------------------
+
+insertGap2(byte[] int int int byte[] boolean )
+  Unable to fully structure code
+insertGap2w(byte[] int int boolean java.util.List<javassist.bytecode.CodeIterator$Branch> javassist.bytecode.CodeIterator$Pointers )
+  Unable to fully structure code
+
+
+javassist.bytecode.stackmap.TypedBlock
+----------------------------
+
+descToTag(java.lang.String int int javassist.bytecode.stackmap.TypeData[] )
+  Unable to fully structure code
+
+
+mz.tech.ReflectionWrapper
+----------------------------
+
+getMethodParent(java.lang.Class<?> java.lang.String java.lang.Class<?>[] )
+  Unable to fully structure code
+getFieldParent(java.lang.Class<?> java.lang.String )
+  Unable to fully structure code
+
+
+mz.tech.MzTech
+----------------------------
+
+replaceBytes(java.lang.Byte[] java.lang.Byte[] java.lang.Byte[] )
+  Unable to fully structure code
+
+
+mz.tech.machine.MzTechMachine
+----------------------------
+
+forSetBlock(org.bukkit.command.CommandSender java.lang.String[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+
+
+mz.tech.util.EnchantUtil
+----------------------------
+
+intToRoman(int )
+  Unable to fully structure code
